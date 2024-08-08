@@ -39,6 +39,11 @@ Run **server.py.**
 -Run client.py in each terminal.<br>
 -Enter credentials for each client.<br>
 
+![image](https://github.com/user-attachments/assets/1e4a4d4a-5482-4e40-b5c6-e074f47c4068)
+
+
+![image](https://github.com/user-attachments/assets/93acff7b-cfbf-4aeb-ac99-d2947af443ff)
+
 
 
 
