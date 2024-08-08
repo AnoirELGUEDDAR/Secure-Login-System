@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS userdata (
 
 # Add a sample user (username: user1, password: pass1234)
 username1 = 'anoir69'
-password1 = hashlib.sha256('anoiraeg2003'.encode()).hexdigest()
+password1 = hashlib.sha256('anoir0'.encode()).hexdigest()
 username2,password2="passin",hashlib.sha256('passin2021'.encode()).hexdigest()
 username3,password3="hello",hashlib.sha256('world19'.encode()).hexdigest()
 username4,password4="mwa",hashlib.sha256('password2013'.encode()).hexdigest()
